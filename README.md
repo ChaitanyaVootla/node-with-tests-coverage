@@ -13,3 +13,7 @@ and istanbul.
 * You should be able to run a manual build or webhook build on commit
 
 ## CI Reports on Shippable
+
+### CI Console output
+![Console](https://github.com/shippableSamples/node-with-tests-coverage/blob/master/public/resources/images/coverage.jpg)
+
