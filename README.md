@@ -11,6 +11,7 @@ and istanbul.
 ## Run CI for this repo on Shippable
 * Fork this repo into your local repo
 * Login into the [Continuous Integration Service](wwww.shippable.com) 
+* All CI configuration is in `shippable.yml`
 * Follow these [CI Setup Instructions](http://docs.shippable.com/ci/runFirstBuild/) if you have never used Shippable CI Service
 * You should be able to run a manual build or webhook build on commit
 
